@@ -1,0 +1,29 @@
+/* Restaurant.css */
+.restaurant-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .restaurant-name {
+    margin: 0;
+  }
+  
+  .restaurant-address {
+    color: #777;
+  }
+  
+  .prices-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  .price-item {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #007bff;
+  }
+  
